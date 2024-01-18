@@ -2,13 +2,13 @@ import pygame, sys, spritesheet
 
 pygame.init()
 
-screen = pygame.display.set_mode((960, 726))
+screen = pygame.display.set_mode((1600, 900))
 pygame.display.set_caption("Museum Mania")
 
-background = pygame.image.load("Background.png").convert()
-background = pygame.transform.smoothscale(background, (960, 726))
+background = pygame.image.load("..\Placeholder Scenes\Museum-Bg-1.png").convert()
+background = pygame.transform.smoothscale(background, (1600, 900))
 
-sprite_sheet_image = pygame.image.load('Sprites/Shouty.png').convert_alpha()
+sprite_sheet_image = pygame.image.load('../Sprites/Shouty.png').convert_alpha()
 sprite_sheet = spritesheet.SpriteSheet(sprite_sheet_image)
 
 shouty_animation_list = []
