@@ -1,0 +1,47 @@
+Voting Criteria
+
+The judging team will vote on four major categories for each entry in the Jam. As games are subjective media these categories are guidelines for judges to follow when exploring your game. Don't worry about tricking the judges into liking your game. Use these criteria as loose guidelines to make the best game possible. Don't overthink it.
+
+
+>> Playability
+
+	- Were systems in your game clunky or polished?
+	
+	- Was the game tripping over itself when the judges tried another round?
+	
+	- Focus on playability and make sure your build works.
+	
+	- This is the most important category and counts for a lot.
+
+
+>> Theme Implementation
+
+	- Did your game follow the theme?
+	
+	- Did you implement the theme in a clever and interesting way?
+	
+	- Was the theme entirely ignored?
+
+	- These are the kinds of questions that judges will be asking.
+
+
+>> Cleverness
+
+	- Did you have an ingenious mechanic in your game?
+
+	- Maybe you told a story with a very interesting or unique twist.
+
+	- The more clever you are the more likely you are to win.
+
+
+>> Artistic Style
+
+	- Everyone has a style that they like or enjoy.
+
+	- Each judge is the same.
+
+	- Style is not bound only to Triple A assets from major studios.
+
+	- Pixel Art, Midi Songs, Foley work and more all ooze with artistic style.
+
+	- Just make something YOU think works and run with it.
