@@ -1,0 +1,17 @@
+Controls:
+  LMB to Shout
+
+When the footsteps are far, shout, which alerts the attendant
+Stop shouting before the attendant comes
+Don't get kicked out!
+Listen for the footsteps
+
+Be as disruptive as possible before the museum closes.
+
+
+Possible "It Spreads" expansion
+
+1) Glass coverings shatter and shards vibrate over the tile each time you scream.
+2) On other levels some of the museum regulars try to scream too, possibly disrupting your play until they are quickly disappeared by museum staff
+2.2) troublemakers become skeletal exhibits until the museum is full and the game ends
+3) You gain notoriety, making your melodious journey more difficult (as seen on the news and on bulletin boards at the front desk)
